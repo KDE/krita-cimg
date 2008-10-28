@@ -1,6 +1,14 @@
 [Desktop Entry]
 Name=CImg Image Restoration Filter
+Name[el]=Φίλτρο αποκατάστασης εικόνων CImg
+Name[pt]=Filtro de Restauro de Imagens
+Name[pt_BR]=Filtro de Restauro de Imagens
+Name[uk]=Фільтр ретушування зображення CImg
 Comment=CImg Image restoration filter
+Comment[el]=Φίλτρο αποκατάστασης εικόνων CImg
+Comment[pt]=Filtro de restauro de imagens do CImg
+Comment[pt_BR]=Filtro de restauro de imagens do CImg
+Comment[uk]=Фільтр ретушування зображення CImg
 X-KDE-ServiceTypes=Krita/Filter
 Type=Service
 X-KDE-Library=kritacimg
