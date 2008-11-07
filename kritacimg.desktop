@@ -2,6 +2,7 @@
 Name=CImg Image Restoration Filter
 Name[el]=Φίλτρο αποκατάστασης εικόνων CImg
 Name[fr]=Filtre de restauration d'image CImg
+Name[gl]=Filtro de restauración de imaxes CImg
 Name[pt]=Filtro de Restauro de Imagens
 Name[pt_BR]=Filtro de Restauro de Imagens
 Name[sv]=Cimg-bildrestaureringsfilter
@@ -9,6 +10,7 @@ Name[uk]=Фільтр ретушування зображення CImg
 Comment=CImg Image restoration filter
 Comment[el]=Φίλτρο αποκατάστασης εικόνων CImg
 Comment[fr]=Filtre de restauration d'image CImg
+Comment[gl]=Filtro de restauración de imaxes CImg
 Comment[pt]=Filtro de restauro de imagens do CImg
 Comment[pt_BR]=Filtro de restauro de imagens do CImg
 Comment[sv]=Cimg-bildrestaureringsfilter
