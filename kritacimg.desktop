@@ -2,6 +2,7 @@
 Name=CImg Image Restoration Filter
 Name[de]=Filter CImg-Bildrestauration
 Name[el]=Φίλτρο αποκατάστασης εικόνων CImg
+Name[es]=Filtro de restauración de imagen CImg
 Name[fr]=Filtre de restauration d'image CImg
 Name[gl]=Filtro de restauración de imaxes CImg
 Name[km]=តម្រង​ស្ដារ​រូបភាព CImg
@@ -14,6 +15,7 @@ Name[uk]=Фільтр ретушування зображення CImg
 Name[x-test]=xxCImg Image Restoration Filterxx
 Comment=CImg Image restoration filter
 Comment[el]=Φίλτρο αποκατάστασης εικόνων CImg
+Comment[es]=Filtro de restauración de imagen CImg
 Comment[fr]=Filtre de restauration d'image CImg
 Comment[gl]=Filtro de restauración de imaxes CImg
 Comment[km]=តម្រង​ស្ដារ​រូបភាព CImg ឡើង​វិញ
